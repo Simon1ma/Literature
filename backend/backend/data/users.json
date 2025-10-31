@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "f621d744-aba9-44a0-8b20-e90b744f96ae",
+      "email": "testuser_1761857178.65857@example.com",
+      "name": "TestUser",
+      "passwordHash": "P@ssw0rd!"
+    }
+  ],
+  "sessions": {
+    "bb8f3a1e-7c68-48d9-921e-9ea4cb0523af": "f621d744-aba9-44a0-8b20-e90b744f96ae"
+  }
+}
