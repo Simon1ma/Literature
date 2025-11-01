@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "f621d744-aba9-44a0-8b20-e90b744f96ae",
+      "email": "testuser_1761857178.65857@example.com",
+      "name": "TestUser",
+      "passwordHash": "P@ssw0rd!"
+    },
+    {
+      "id": "d06c0d92-b188-42cd-9443-cdd0a94509e0",
+      "email": "111",
+      "name": "111",
+      "passwordHash": "111bdddd"
+    }
+  ],
+  "sessions": {
+    "bb8f3a1e-7c68-48d9-921e-9ea4cb0523af": "f621d744-aba9-44a0-8b20-e90b744f96ae",
+    "129fdb31-57a2-48d4-8640-eee0f88423d2": "f621d744-aba9-44a0-8b20-e90b744f96ae",
+    "7a9b34d8-590a-4b5a-8b90-237038366082": "d06c0d92-b188-42cd-9443-cdd0a94509e0"
+  }
+}

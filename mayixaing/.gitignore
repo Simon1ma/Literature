@@ -1,0 +1,16 @@
+# Ignore build outputs and tool caches copied from local project
+/build/
+/.dart_tool/
+/backend/.dart_tool/
+/android/.gradle/
+/android/.kotlin/
+/android/app/build/
+/backend/build/
+/linux/build/
+/macos/build/
+/windows/build/
+**/*.apk
+**/*.a
+**/*.so
+**/*.dll
+**/*.dylib
