@@ -1,0 +1,66 @@
+{
+  "topics": [
+    {
+      "id": "ed821ffa-cb23-4faa-9390-838835f05f59",
+      "title": "《傲慢与偏见》最打动你的片段",
+      "content": "分享一下最打动你的情节，以及原因。",
+      "author": "文学爱好者",
+      "createdAt": "2025-10-30T20:55:05.378198",
+      "replyCount": 0,
+      "likeCount": 3
+    },
+    {
+      "id": "ad50890f-3009-4ca1-b18d-92bbde43e27a",
+      "title": "《双城记》的现实意义",
+      "content": "从历史与现实两方面聊聊这部作品。",
+      "author": "历史研究者",
+      "createdAt": "2025-10-30T20:55:05.379763",
+      "replyCount": 1,
+      "likeCount": 1
+    },
+    {
+      "id": "9f28b46a-4443-46ec-8862-e28009b993b3",
+      "title": "????:?????????",
+      "content": "?????????",
+      "author": "??",
+      "createdAt": "2025-10-30T22:09:41.610177",
+      "replyCount": 2,
+      "likeCount": 1
+    },
+    {
+      "id": "2e2db037-970a-47ae-bda0-3abdb85af218",
+      "title": "12345",
+      "content": "1234567890",
+      "author": "当前用户",
+      "createdAt": "2025-10-31T01:53:40.923177",
+      "replyCount": 0,
+      "likeCount": 1
+    }
+  ],
+  "replies": [
+    {
+      "id": "94d27dc7-5910-463f-8e5c-543061e8c404",
+      "topicId": "9f28b46a-4443-46ec-8862-e28009b993b3",
+      "content": "?????????",
+      "author": "??",
+      "createdAt": "2025-10-30T22:09:41.739038",
+      "likeCount": 0
+    },
+    {
+      "id": "faf34cf3-23f8-4e9a-bd85-13f264eee9bb",
+      "topicId": "9f28b46a-4443-46ec-8862-e28009b993b3",
+      "content": "111",
+      "author": "当前用户",
+      "createdAt": "2025-10-31T01:51:17.756309",
+      "likeCount": 0
+    },
+    {
+      "id": "62d37223-93de-4b02-88de-5715f4f20bcc",
+      "topicId": "ad50890f-3009-4ca1-b18d-92bbde43e27a",
+      "content": "000",
+      "author": "当前用户",
+      "createdAt": "2025-10-31T01:53:57.962330",
+      "likeCount": 0
+    }
+  ]
+}

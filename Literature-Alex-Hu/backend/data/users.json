@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "email": "demo@example.com",
+      "name": "Demo User",
+      "passwordHash": "demo123"
+    },
+    {
+      "id": "f621d744-aba9-44a0-8b20-e90b744f96ae",
+      "email": "testuser_1761857178.65857@example.com",
+      "name": "TestUser",
+      "passwordHash": "P@ssw0rd!"
+    }
+  ],
+  "sessions": {
+    "aa73ca61-561c-4f39-a1de-4fa5937fff8e": "u1",
+    "614d16ab-eb6a-4b6a-bb7c-bdaf5aae7ce6": "u1",
+    "e6657a03-5b92-432a-af10-2e0e32f9ac6d": "u1",
+    "21725ba1-066b-4ca5-b586-e62a69c4d241": "u1",
+    "cd08a874-7817-462a-a8dc-6fc0adf31724": "f621d744-aba9-44a0-8b20-e90b744f96ae",
+    "73f811aa-dfc3-4622-b55b-fee419d86c59": "f621d744-aba9-44a0-8b20-e90b744f96ae",
+    "62a3988f-ca68-48b7-b8a0-19549e17913d": "f621d744-aba9-44a0-8b20-e90b744f96ae",
+    "f329fcb9-877a-41dd-8988-9c863f718859": "f621d744-aba9-44a0-8b20-e90b744f96ae"
+  }
+}

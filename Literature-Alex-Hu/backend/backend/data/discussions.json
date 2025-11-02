@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "id": "f5977b27-cf59-4576-a2c9-e2058a948a38",
+      "title": "《傲慢与偏见》最打动你的片段",
+      "content": "分享一下最打动你的情节，以及原因。",
+      "author": "文学爱好者",
+      "createdAt": "2025-10-31T01:16:54.390116",
+      "replyCount": 2,
+      "likeCount": 4
+    },
+    {
+      "id": "4ff1d925-ed37-4794-87e2-41a0ab7915e4",
+      "title": "《双城记》的现实意义",
+      "content": "从历史与现实两方面聊聊这部作品。",
+      "author": "历史研究者",
+      "createdAt": "2025-10-31T01:16:54.391464",
+      "replyCount": 0,
+      "likeCount": 1
+    }
+  ],
+  "replies": [
+    {
+      "id": "374f0e6b-31b2-42ee-b548-107ca4f15593",
+      "topicId": "f5977b27-cf59-4576-a2c9-e2058a948a38",
+      "content": "111",
+      "author": "当前用户",
+      "createdAt": "2025-11-02T02:09:32.811621",
+      "likeCount": 0
+    },
+    {
+      "id": "3fd07a8b-628b-4a29-a20a-948d651c900e",
+      "topicId": "f5977b27-cf59-4576-a2c9-e2058a948a38",
+      "content": "hhh",
+      "author": "当前用户",
+      "createdAt": "2025-11-02T04:21:29.835748",
+      "likeCount": 0
+    }
+  ]
+}
